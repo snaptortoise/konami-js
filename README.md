@@ -1,1 +1,1 @@
-Konami-JS has moved -> [https://github.com/george/konami-js](https://github.com/george/konami-js)
+Konami-JS has moved -> [https://github.com/georgemandis/konami-js](https://github.com/georgemandis/konami-js)
